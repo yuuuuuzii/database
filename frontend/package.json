@@ -51,7 +51,8 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   },
   "resolutions": {
-  "postcss": "8.4.21"
+  "postcss": "8.4.21",
+  "postcss-safe-parser": "6.0.0"
   },
   "proxy": "http://localhost:3001"
 }
